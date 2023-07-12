@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6a944e71-ead3-4146-be15-4dfb845b8b0d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design Patterns.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strategy Pattern/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strategy Pattern/Strategy Pattern.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strategy Pattern/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strategy Pattern/src/duckBehaviours/flyables/CannotFly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strategy Pattern/src/duckBehaviours/flyables/FlyBehaviour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strategy Pattern/src/duckBehaviours/flyables/FlyWithJetPack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strategy Pattern/src/duckBehaviours/flyables/FlyWithWings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strategy Pattern/src/duckBehaviours/quackables/Quack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strategy Pattern/src/duckBehaviours/quackables/QuackBehaviour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strategy Pattern/src/duckBehaviours/quackables/Squeaks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strategy Pattern/src/duckBehaviours/weapons/LaserEyes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strategy Pattern/src/duckBehaviours/weapons/WeaponBehaviour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strategy Pattern/src/ducks/Duck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strategy Pattern/src/ducks/MallardDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strategy Pattern/src/ducks/RoboDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strategy Pattern/src/ducks/RubberDuck.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2STKDjxTdz3xTh58SInZdYJiMiK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "OverrideImplement.generate.javadoc": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "jdk.selected.JAVA_MODULE": "openjdk-18"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Strategy Pattern" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a944e71-ead3-4146-be15-4dfb845b8b0d" name="Changes" comment="" />
+      <created>1689165012742</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1689165012742</updated>
+    </task>
+    <servers />
+  </component>
+</project>
