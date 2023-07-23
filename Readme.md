@@ -1,1 +1,4 @@
-1. [Strategy Pattern](./Strategy-Pattern/Readme.md)
+# Contents
+1. [Strategy Pattern](<./Strategy Pattern>)
+
+2. Coming soon!
